@@ -2,7 +2,7 @@
 
 1. **Web map**: Right now, there is no easy online or offline way to see all the Los Angeles region food banks and their hours of operation. We want to make it easier for people to find their nearest food bank that will be open today and tomorrow. Once complete the map will be hosted by the [LA Regional Food Bank](https://www.lafoodbank.org/) so that those in need can more easily find resources.
 
-2. **Compile a pool of hunger data**: The [LA Regional Food Bank](https://www.lafoodbank.org/) recently was accepted into [ESRI](http://www.esri.com/)'s program for Non-Profit organizations. We want to get them started right so we'll be gathering relevant data on hunger in LA County. This will be used for a [MaptimeLA](http://maptimela.github.io) night on **data visualization**. The data will then be added to the **LA Regional Food Bank's ArcGIS Online** portal. Any public data will remain here as well for others to use.
+2. **Compile a pool of hunger data**: The [LA Regional Food Bank](https://www.lafoodbank.org/) recently was accepted into [ESRI](http://www.esri.com/)'s program for Non-Profit organizations. We want to get them started right so we'll be gathering relevant data on hunger in LA County. This will be used for a [MaptimeLA](http://maptimela.github.io) night on **data visualization**. The data will then be added to the **LA Regional Food Bank's ArcGIS Online** portal. Any public data will remain in a public repository here or managed by the Food Bank so that others can benefit from the work we do.
  
 **Current Project Status:** Data research, data cleaning/formatting, adding data to [OpenStreetMaps](http://www.openstreetmap.org/)
 
