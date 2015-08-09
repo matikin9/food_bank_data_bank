@@ -30,6 +30,8 @@
 5. **Commit notes**: Include `#Maptime` and `#MaptimeLA` in your commit notes. 
 
 # Data brainstorming and checklist:
+Datasets are starting to be assembled in the data folder of this repo. If you want to contribute data, try to get it condensed to an extent that will be relevant to the project before uploading. (Generally LA County is ideal) If you are not familiar with how to do this, upload what you have and submit an issue for it to be clipped. For shapfiles, stick to the WGS 1894 State Plane Zone V projection. This is the standard projection used by LA County and will avoid future conflicts when working with the data.
+
 Here are some geographic, demographic and other data sources we've brainstormed as relevant for this project. What else should we look up?
 - [ ] Census Poverty Data for LA County
 - [ ] Census Block Outlines for LA County
@@ -38,7 +40,7 @@ Here are some geographic, demographic and other data sources we've brainstormed 
 - [ ] State Legislative District Boundaries
 - [ ] Federal Congressional District Boundaries. 
 
-View the current list here: https://docs.google.com/spreadsheets/d/1s_PRZ_seM9PUUyPtKjClWV7a3kkxW83RhdWHlBTljto/edit?usp=sharing
+Latest Brainstorm List is here: https://docs.google.com/spreadsheets/d/1s_PRZ_seM9PUUyPtKjClWV7a3kkxW83RhdWHlBTljto/edit?usp=sharing
 # Have questions? Ideas? Open an Issue.
 
 # Contact 
