@@ -24,7 +24,7 @@
 
 # How to add Food Banks on OpenStreetMap:
 1. Request access to the Google Sheet so you can let others know a Food Pantry has been added to OSM.
-2. There is also a column in the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gfOMO2hE7KMb1lE7e9YKVpDVm0taH_0C9uIxy3KfZkM/edit#gid=0) indicating whether the Food Pantry has been added to Open Street Map.
+2. There is also a column in the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gfOMO2hE7KMb1lE7e9YKVpDVm0taH_0C9uIxy3KfZkM/edit#gid=0) indicating whether the Food Pantry has been added to Open Street Map. Please request access and update the sheet so others know a pantry has been added. 
 3. **Category**: OSM already has a `category` for `food pantries`. Many are housed in `churches` and `community centers`, so be sure to distinguish between the organization and the food pantry in how you name the point added to the map. 
 4. **Contact Number and Hours**: Be sure to add the `contact number` and `hours` to the point as well.
 5. **Commit notes**: Include `#Maptime` and `#MaptimeLA` in your commit notes. 
