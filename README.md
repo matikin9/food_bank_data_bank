@@ -1,3 +1,6 @@
+Want to suggest and addition? Check open issues first to avoid duplication. (Link is on the right side of the page) If you have a new suggestions, open an issue or submit it through our Google Form. If you have data to add, make a pull request.
+https://docs.google.com/forms/d/1IKmcIz4dVsqnK0WavEZo-gWiQZzdLaIjukiFouhPPUA/viewform?usp=send_form
+
 # What is this project?
 
 1. **Web map**: Right now, there is no easy online or offline way to see all the Los Angeles region food banks and their hours of operation. We want to make it easier for people to find their nearest food bank that will be open today and tomorrow. Once complete the map will be hosted by the [LA Regional Food Bank](https://www.lafoodbank.org/) so that those in need can more easily find resources.
