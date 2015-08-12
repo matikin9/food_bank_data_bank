@@ -45,7 +45,7 @@ Here are some geographic, demographic and other data sources we've brainstormed 
 
 Latest Brainstorm List is here: https://docs.google.com/spreadsheets/d/1s_PRZ_seM9PUUyPtKjClWV7a3kkxW83RhdWHlBTljto/edit?usp=sharing
 # Have questions? Ideas? Open an Issue or submit a suggestion through our Google Form.
-#https://docs.google.com/forms/d/1IKmcIz4dVsqnK0WavEZo-gWiQZzdLaIjukiFouhPPUA/viewform?usp=send_form
+https://docs.google.com/forms/d/1IKmcIz4dVsqnK0WavEZo-gWiQZzdLaIjukiFouhPPUA/viewform?usp=send_form
 
 # Contact 
 - Project Lead: [@JRHutson](https://github.com/JRHutson)
