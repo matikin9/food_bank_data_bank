@@ -1,5 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
-Id,Id2,Geography,Estimate; Total,Margin of Error; Total
+Id,GeoID,Geography,Estimate; Total,Margin of Error; Total
 1500000US060371011101,060371011101,"Block Group 1, Census Tract 1011.10, Los Angeles County, California",2286,478
 1500000US060371011102,060371011102,"Block Group 2, Census Tract 1011.10, Los Angeles County, California",1601,326
 1500000US060371011103,060371011103,"Block Group 3, Census Tract 1011.10, Los Angeles County, California",1125,300
