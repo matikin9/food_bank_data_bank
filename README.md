@@ -1,4 +1,9 @@
 
+# MaptimeLA/LA Regional Food Bank Data Night
+
+**What's All This About?**: Sept. 3rd MaptimeLA will be hosting a night of working with data related to hunger in LA County. We have a list of questions to answer and a growing trove of data to answer it with. You can help us prepare by checking the data cleanup needs or participating in the discussion of how to address our list of questions. (Both under issues) Feel free to contribute here even if you can't make it on the 3rd. Feel free to come on the 3rd even if you can't contribute here.
+
+
 # What is this project?
 
 **Hunger Data Pool**: The [LA Regional Food Bank](https://www.lafoodbank.org/) recently was accepted into [ESRI](http://www.esri.com/)'s program for Non-Profit organizations. We want to get them started right so we'll be gathering relevant data on hunger in LA County. This will be used for a [MaptimeLA](http://maptimela.github.io) night on **data visualization**. The data will then be added to the **LA Regional Food Bank's ArcGIS Online** portal. Any public data will remain in a public repository here or managed by the Food Bank so that others can benefit from the work we do.
