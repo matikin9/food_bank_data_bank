@@ -15,9 +15,14 @@
 
 # Want more help on these tasks? 
 
-- [x] **Truth Table:** `[DONE]` Thank you [@Nina](https://github.com/matikin9) for completing this task. The truth table that will power the symbology of the webmap is currently complete, other than a few issues that need to be resolved.
 - [ ] **OSM Updates:** `[ONGOING]` 
-- [ ] **Data Gathering:** `[ONGOING]` Some relevant data will be derived from the Food Pantry locations once they are geocoded, such as drive time areas. Other data that would be relevant to the mission of the Food Bank needs to be compiled and prepared for the upcoming Maptime LA Hunger Data Night and eventual upload to ArcGIS Online.
+- [ ] **Data Gathering:** `[ONGOING]` Relevant data for the MaptimeLA Food Bank Data Night is currently being compiled in this repo. Requests for assistance with this process can be found under issues along with questions that we are hoping to answer with the data. If you have or can get data that should be a part of this repo, create a branch to add it. If you have a question that would be interesting to apply this data to, open an issue for it. If you are really interested by one of the questions posed, post a comment and start brainstorming how to address it. Ideally geographic data should be in both Shapefile and GeoJSON formats as well as WGS 1894 State Plane Zone V projection.
+
+# Data brainstorming and checklist:
+Datasets are starting to be assembled in the data folder of this repo. If you want to contribute data, try to get it condensed to an extent that will be relevant to the project before uploading. (Generally LA County is ideal) If you are not familiar with how to do this, upload what you have and submit an issue for it to be clipped. For shapfiles, stick to the WGS 1894 State Plane Zone V projection. This is the standard projection used by LA County and will avoid future conflicts when working with the data. 
+
+# Have questions? Ideas? Open an Issue or submit a suggestion through our Google Form.
+https://docs.google.com/forms/d/1IKmcIz4dVsqnK0WavEZo-gWiQZzdLaIjukiFouhPPUA/viewform?usp=send_form
 
 # How to add Food Banks on OpenStreetMap:
 1. Request access to the Google Sheet so you can let others know a Food Pantry has been added to OSM.
@@ -26,20 +31,6 @@
 4. **Contact Number and Hours**: Be sure to add the `contact number` and `hours` to the point as well.
 5. **Commit notes**: Include `#Maptime` and `#MaptimeLA` in your commit notes. 
 
-# Data brainstorming and checklist:
-Datasets are starting to be assembled in the data folder of this repo. If you want to contribute data, try to get it condensed to an extent that will be relevant to the project before uploading. (Generally LA County is ideal) If you are not familiar with how to do this, upload what you have and submit an issue for it to be clipped. For shapfiles, stick to the WGS 1894 State Plane Zone V projection. This is the standard projection used by LA County and will avoid future conflicts when working with the data.
-
-Here are some geographic, demographic and other data sources we've brainstormed as relevant for this project. What else should we look up?
-- [ ] Census Poverty Data for LA County
-- [ ] Census Block Outlines for LA County
-- [ ] Census Statistics on usage of Food Stamps and WIC Benefits for LA County
-- [ ] Supermarket Locations and Hours of Operation
-- [ ] State Legislative District Boundaries
-- [ ] Federal Congressional District Boundaries. 
-
-Latest Brainstorm List is here: https://docs.google.com/spreadsheets/d/1s_PRZ_seM9PUUyPtKjClWV7a3kkxW83RhdWHlBTljto/edit?usp=sharing
-# Have questions? Ideas? Open an Issue or submit a suggestion through our Google Form.
-https://docs.google.com/forms/d/1IKmcIz4dVsqnK0WavEZo-gWiQZzdLaIjukiFouhPPUA/viewform?usp=send_form
 
 # Contact 
 - Project Lead: [@JRHutson](https://github.com/JRHutson)
