@@ -1,23 +1,17 @@
-Want to suggest and addition? Check open issues first to avoid duplication. (Link is on the right side of the page) If you have a new suggestions, open an issue or submit it through our Google Form. If you have data to add, make a pull request.
-https://docs.google.com/forms/d/1IKmcIz4dVsqnK0WavEZo-gWiQZzdLaIjukiFouhPPUA/viewform?usp=send_form
 
 # What is this project?
 
-1. **Web map**: Right now, there is no easy online or offline way to see all the Los Angeles region food banks and their hours of operation. We want to make it easier for people to find their nearest food bank that will be open today and tomorrow. Once complete the map will be hosted by the [LA Regional Food Bank](https://www.lafoodbank.org/) so that those in need can more easily find resources.
-
-2. **Compile a pool of hunger data**: The [LA Regional Food Bank](https://www.lafoodbank.org/) recently was accepted into [ESRI](http://www.esri.com/)'s program for Non-Profit organizations. We want to get them started right so we'll be gathering relevant data on hunger in LA County. This will be used for a [MaptimeLA](http://maptimela.github.io) night on **data visualization**. The data will then be added to the **LA Regional Food Bank's ArcGIS Online** portal. Any public data will remain in a public repository here or managed by the Food Bank so that others can benefit from the work we do.
+**Hunger Data Pool**: The [LA Regional Food Bank](https://www.lafoodbank.org/) recently was accepted into [ESRI](http://www.esri.com/)'s program for Non-Profit organizations. We want to get them started right so we'll be gathering relevant data on hunger in LA County. This will be used for a [MaptimeLA](http://maptimela.github.io) night on **data visualization**. The data will then be added to the **LA Regional Food Bank's ArcGIS Online** portal. Any public data will remain in a public repository here or managed by the Food Bank so that others can benefit from the work we do.
  
 **Current Project Status:** Data research, data cleaning/formatting, adding data to [OpenStreetMaps](http://www.openstreetmap.org/)
 
-**Coming Soon:** We are scheduling and planning a **Data & Map Workshop Night** for early September.
 
 # How can I help?
 
 | Phase        | Task           | Contact  |
 | ------------- |:-------------:| -----:|
-| Data Formatting      | Truth Table has been formatted in a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gfOMO2hE7KMb1lE7e9YKVpDVm0taH_0C9uIxy3KfZkM/edit#gid=0) |  Request access from [@JRHutson](https://github.com/JRHutson)  |
-| Open Data | Adding [Food Banks data](https://docs.google.com/spreadsheets/d/1gfOMO2hE7KMb1lE7e9YKVpDVm0taH_0C9uIxy3KfZkM/edit#gid=0) to Open Street Maps |  Questions?  [@JRHutson](https://github.com/JRHutson) |
 | Data Researching     | Researching public data about hunger in LA County      |   Make Pull Request |
+| Open Data | Adding [Food Banks data](https://docs.google.com/spreadsheets/d/1gfOMO2hE7KMb1lE7e9YKVpDVm0taH_0C9uIxy3KfZkM/edit#gid=0) to Open Street Maps |  Questions?  [@JRHutson](https://github.com/JRHutson) |
 
 # Want more help on these tasks? 
 
