@@ -15,7 +15,8 @@
 
 | Phase        | Task           | Contact  |
 | ------------- |:-------------:| -----:|
-| Data Researching     | Researching public data about hunger in LA County      |   Make Pull Request |
+| Data Cleanup         | Check the issues to see where we need help             |   Issues            |
+| Data Researching     | Check the issues to see what data we need or suggest datasets      |   Issues/Pull Request |
 | Open Data | Adding [Food Banks data](https://docs.google.com/spreadsheets/d/1gfOMO2hE7KMb1lE7e9YKVpDVm0taH_0C9uIxy3KfZkM/edit#gid=0) to Open Street Maps |  Questions?  [@JRHutson](https://github.com/JRHutson) |
 
 # Want more help on these tasks? 
